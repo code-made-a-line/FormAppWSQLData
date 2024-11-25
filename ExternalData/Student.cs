@@ -19,6 +19,7 @@ namespace ExternalData
             Id = id;
             FirstName = firstName;
             LastName = lastName;
+            //major at uni
             Major = major;
         }
     }
